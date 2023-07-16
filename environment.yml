@@ -1,4 +1,4 @@
-name: C:\Users\ABEKAESH\Desktop\sample_project\env
+name: env-dir
 channels:
   - defaults
 dependencies:
